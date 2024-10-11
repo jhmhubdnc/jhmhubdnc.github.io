@@ -31,3 +31,26 @@
     }
   }
 }
+
+.skills {
+  display: flex;
+  gap: 15px;
+  justify-content: left; /* 가운데 정렬 */
+}
+
+.skill-circle {
+  display: inline-block;
+  font-family: "Source Sans Pro",sans-serif;
+  padding: 4px 14px;
+  border-radius: 100px;
+  border: solid 1px #D8E0E7;
+  font-size: 16px;
+  margin: 0 8px 14px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
+  transition: transform 0.3s, box-shadow 0.3s; /* 마우스 호버 효과 */
+}
+
+.skill-circle:hover {
+  transform: scale(1.1); /* 마우스 올렸을 때 확대 */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* 호버 시 그림자 강화 */
+}

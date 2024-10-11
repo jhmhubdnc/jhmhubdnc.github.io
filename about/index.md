@@ -1,6 +1,7 @@
 ---
 layout: page
 type: about
+title: 저를 소개합니다 !!! 🐲
 ---
 
 ## Who Am I?
@@ -20,4 +21,17 @@ type: about
 
 <hr>
 
-## Available My Skill & Role
+## 💻 Available My Skill & Role
+
+<ul class="skills">
+  <li class="skill-circle">PHP</li>
+  <li class="skill-circle">Go</li>
+  <li class="skill-circle">Node.js</li>
+  <li class="skill-circle">Javascript</li>
+  <li class="skill-circle">Typescript</li>
+  <li class="skill-circle">React</li>
+  <li class="skill-circle">MySQL</li>
+  <li class="skill-circle">Redis</li>
+  <li class="skill-circle">Grafana</li>
+  <li class="skill-circle">AWS</li>
+</ul>
