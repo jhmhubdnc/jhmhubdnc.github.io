@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding: $site-author-image-padding;
   width: $site-author-image-width;
-  height: $site-author-image-height;
+  // height: $site-author-image-height;
   border: $site-author-image-border-width solid $site-author-image-border-color;
   border-radius: 50%;
   object-fit: cover; /* 이미지 비율 유지하며 크기에 맞추기 */
