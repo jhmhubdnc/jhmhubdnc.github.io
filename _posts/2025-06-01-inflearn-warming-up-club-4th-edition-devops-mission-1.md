@@ -2,13 +2,15 @@
 title: 인프런 워밍업 클럽 4기 - DevOps | 1. 쿠버네티스 설치 구간별 상태 확인
 date: 2025-06-01
 categories:
-- inflearn
+- Inflearn
 tags:
-- inflearn
+- Inflearn
 ---
 
-![](/assets/images/inflearn_mission_image/kubernetes_image.jpg)
 인프런 워밍업클럽 4기 - 데브옵스
+쿠버네티스 설치 구간별 상태 확인에 대한 포스팅입니다.
+
+![](/assets/images/inflearn_mission_image/kubernetes_image.jpg)
 
 # 구간별 상태 확인 (1/2)
 
