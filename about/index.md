@@ -12,7 +12,8 @@ title: 저를 소개합니다 !!! 🐲
 <hr>
 
 ## About Me
-- HUBDNC (2019 ~ ing)
+- HUBDNC (2019 ~ 2024)
+- HUBDNC Universe Co., Ltd. (2024 ~ ing)
 
 <hr>
 
